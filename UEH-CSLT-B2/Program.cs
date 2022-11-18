@@ -10,7 +10,7 @@ namespace BT2208
     {
         static void Main(string[] args)
         {
-            bai3();
+            bai3();////////
         }
         static void bai1()
         {
